@@ -113,7 +113,7 @@ using RegistroCompleto.BLL;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 79 "C:\Users\DELL\source\repos\Pro. Aplicada 2\RegistroCompleto\Pages\RPersonas.razor"
+#line 103 "C:\Users\DELL\source\repos\Pro. Aplicada 2\RegistroCompleto\Pages\RPersonas.razor"
  
     [Parameter]
     public int PersonaId { get; set; }
